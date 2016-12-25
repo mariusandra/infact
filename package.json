@@ -1,0 +1,11 @@
+{
+  "name": "infact",
+  "version": "0.0.1",
+  "description": "Select React or Inferno from BABEL_ENV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marius Andra <marius.andra@gmail.com>",
+  "license": "MIT"
+}
