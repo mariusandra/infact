@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariusandra/infact.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mariusandra/infact/issues"
+  },
+  "homepage": "https://github.com/mariusandra/infact#readme",
   "author": "Marius Andra <marius.andra@gmail.com>",
   "license": "MIT"
 }
